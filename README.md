@@ -33,6 +33,7 @@ Run VS Code or terminal as Administrator.
 python packet_analyzer.py
 ```
 The program will start capturing network packets.
+
 Press CTRL + C to stop capturing.
 
 ### Example Output
@@ -53,8 +54,6 @@ Payload Data
 This project is intended strictly for educational and authorized network analysis purposes only. Unauthorized packet sniffing on networks without permission may violate privacy and security policies.
 
 ## Author
-Manpreet Kaur, 
+Manpreet Kaur<br>
 Cyber Security Intern @ Prodigy InfoTech
-Author
-Manpreet Kaur
-Cyber Security Intern @ Prodigy InfoTech
+
